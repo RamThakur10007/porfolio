@@ -151,7 +151,7 @@ const Hero = () => {
             <h1>Projects</h1>
           </div>
           <div className="project-container">
-    <div className="project-box">
+{/*     <div className="project-box">
         <a href="https://twinsdocdemo.netlify.app/" target="_blank" >
             <img src="assets/images/twinsDoc (1).png" alt="TwinsDoc" />
         </a>
@@ -161,7 +161,7 @@ const Hero = () => {
                     A comprehensive doctor appointment platform facilitating virtual consultations between patients and healthcare professionals.
                 </p>
             </div>
-    </div>
+    </div> */}
 
     <div className="project-box">
         <a href="https://instac.vercel.app/" target="_blank" >
