@@ -152,8 +152,8 @@ const Hero = () => {
           </div>
           <div className="project-container">
 {/*     <div className="project-box">
-        <a href="https://twinsdocdemo.netlify.app/" target="_blank" >
-            <img src="assets/images/twinsDoc (1).png" alt="TwinsDoc" />
+        <a href="https://imagezify-subscription-system.onrender.com/" target="_blank" >
+            <img src="assets/images/Personal Project 1.png" alt="TwinsDoc" />
         </a>
             <div className="project-content">
                 <h3>TwinsDoc</h3>
