@@ -151,17 +151,17 @@ const Hero = () => {
             <h1>Projects</h1>
           </div>
           <div className="project-container">
-{/*     <div className="project-box">
+    <div className="project-box">
         <a href="https://imagezify-subscription-system.onrender.com/" target="_blank" >
-            <img src="assets/images/Personal Project 1.png" alt="TwinsDoc" />
+            <img src="assets/images/Personal Project 1.png" alt="ImageGen" />
         </a>
             <div className="project-content">
-                <h3>TwinsDoc</h3>
+                <h3>AI Image Generator</h3>
                 <p>
-                    A comprehensive doctor appointment platform facilitating virtual consultations between patients and healthcare professionals.
+                    AI Image Generator built with MERN Stack & TailwindCSS 🖼️ Uses Clipdrop API for image generation 💳 Subscription management via Razorpay Payment Gateway.
                 </p>
             </div>
-    </div> */}
+    </div>
 
     <div className="project-box">
         <a href="https://instac.vercel.app/" target="_blank" >
